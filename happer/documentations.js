@@ -13,8 +13,8 @@ const options= {
         openapi: '3.0.0',
         info: {
           version: '1.0.0',
-          title: 'BLOG APIs',
-          description: 'Blog apis configurations',
+          title: 'RANGA APIs',
+          description: 'Ranga apis in use.',
         },
         servers: [
           {
